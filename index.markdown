@@ -116,6 +116,7 @@ In the video above, the shader simulates rain drops starting at 1 per m², going
 <video width="576" height="360" class="align-center" loading="lazy" preload="metadata" controls loop>
   <source src="/videos/CherryTreeDay.webm" type="video/mp4">
 </video>
+<center>The petals create ripples where they land</center>
 <video width="576" height="360" class="align-center" loading="lazy" preload="metadata" controls loop>
   <source src="/videos/CherryTreeNight.webm" type="video/mp4">
 </video>
@@ -159,6 +160,10 @@ For the effects that didn't fit in any of the previous categories.
   <source src="/videos/PuzzleGame.mkv" type="video/mp4">
 </video>
 <center>An idea for a 2D puzzle game.</center>
+<video width="576" height="360" class="align-center" loading="lazy" preload="metadata" controls>
+  <source src="/videos/BadAppleJumpFlood.mkv" type="video/mp4">
+</video>
+<center>Jump flood algorithm using the famous Bad Apple <a href="https://www.youtube.com/watch?v=FtutLA63Cp8">video</a>.</center>
 <video width="576" height="360" class="align-center" loading="lazy" preload="metadata" controls>
   <source src="/videos/VoronoiTerrain.mp4" type="video/mp4">
 </video>
